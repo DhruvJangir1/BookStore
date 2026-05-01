@@ -1,10 +1,9 @@
 # Logs
 logs
 *.log
-.books.json
-.user_data.json
+data/books.json
+data/user_data.json
 .env
-.books.json
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
